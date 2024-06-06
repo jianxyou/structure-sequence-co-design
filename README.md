@@ -1,7 +1,5 @@
 # awesome-protein-representation-learning
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/LirongWu/awesome-protein-representation-learning?color=yellow)  ![Forks](https://img.shields.io/github/forks/LirongWu/awesome-protein-representation-learning?color=blue&label=Fork)
-
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
