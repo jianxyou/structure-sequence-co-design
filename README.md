@@ -53,19 +53,6 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 ### 3. Decoding Strategy
 
- 
-
-- [NIPS 2023]**Predicting a Protein’s Stability under a Million Mutations**[[paper]](https://arxiv.org/pdf/2310.12979)
-
-
-
-
-
-
-
-
-
-
 - #### for protein sequence
   - [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
 
@@ -101,7 +88,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - #### bench mark for geomotry representation study
    - [NIPS 2023]**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
  
-- #### =
+- #### 
   
 
 
