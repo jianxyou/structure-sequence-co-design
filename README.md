@@ -35,7 +35,6 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
 - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
 - [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
-- [ICML 2023
 
   
 
