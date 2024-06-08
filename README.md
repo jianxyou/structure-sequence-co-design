@@ -53,7 +53,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 ### 3. Decoding Strategy
 
-- [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
+ 
+
 - [NIPS 2023]**Predicting a Protein’s Stability under a Million Mutations**[[paper]](https://arxiv.org/pdf/2310.12979)
 - [NIPS 2023]**CELL-E 2: Translating Proteins to Pictures and Back**[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.05.561066v1)
 - [NIPS 2023]**ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf)
@@ -68,6 +69,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [ICML 2023]**Exploring Chemical Space with Score-based Out-of-distribution Generation**[[paper]](https://openreview.net/forum?id=WP07wAWxty)
 - [ICML 2023]**Reprogramming Pretrained Language Models for Antibody Sequence Infilling**[[paper]](https://openreview.net/forum?id=K2gn1WiLAu)
 - [ICML 2023]**Bidirectional Learning for Offline Model-based Biological Sequence Design**[[paper]](https://openreview.net/forum?id=CUORPu6abU)
+
+ - #### for protein sequence
+  - [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
 
 
 
