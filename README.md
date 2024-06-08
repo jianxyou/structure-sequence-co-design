@@ -59,7 +59,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**CELL-E 2: Translating Proteins to Pictures and Back**[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.05.561066v1)
 - [NIPS 2023]**ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf)
 - [NIPS 2023]**PoET: A generative model of protein families as sequences-of-sequences**[[paper]](https://arxiv.org/abs/2306.06156)
-- [NIPS 2023]**Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://openreview.net/pdf?id=27vPcG4vKV)
+
 
 
 
@@ -84,6 +84,7 @@ This repository contains a list of papers on the **Protein Representation Learni
   - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
   - [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
   - [NIPS 2023]**ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
+  - [NIPS 2023]**Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://openreview.net/pdf?id=27vPcG4vKV)
 
 
 - #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
