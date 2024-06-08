@@ -60,7 +60,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf)
 - [NIPS 2023]**PoET: A generative model of protein families as sequences-of-sequences**[[paper]](https://arxiv.org/abs/2306.06156)
 - [NIPS 2023]**Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://openreview.net/pdf?id=27vPcG4vKV)
-- [NIPS 2023]**ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
+
 
 
 
@@ -80,11 +80,10 @@ This repository contains a list of papers on the **Protein Representation Learni
 - #### diffusion model
    - [ICML 2023]**Exploring Chemical Space with Score-based Out-of-distribution Generation**[[paper]](https://openreview.net/forum?id=WP07wAWxty)
  
-- #### for out-of-distribution attribute
-  - [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
- 
-- #### for diversity, novely, and fitness of the protein sequence
+- #### improve the robusity of the sequence design
   - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
+  - [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
+  - [NIPS 2023]**ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
 
 
 - #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
