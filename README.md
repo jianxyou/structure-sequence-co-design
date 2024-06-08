@@ -62,7 +62,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://openreview.net/pdf?id=27vPcG4vKV)
 - [NIPS 2023]**ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
 - [NIPS 2023]**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
-- [NIPS 2023]**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)
+
 
 
 
@@ -93,6 +93,10 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
   - [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
+ 
+
+- #### a benchmark helps us to understand
+  - [NIPS 2023]**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)
  
   
 
