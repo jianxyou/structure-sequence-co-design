@@ -19,7 +19,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - **Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**[[paper]](https://arxiv.org/abs/2306.13769)
   
 
-### 2. Modeling Hierarchy Structure of Protein
+### 2. Hierarchical structure modeling
 
 - **SyNDock: N Rigid Protein Docking via Learnable Group Synchronization**[[paper]](https://arxiv.org/abs/2305.15156)
 - **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]](https://arxiv.org/abs/2306.01794)
