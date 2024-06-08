@@ -34,7 +34,13 @@ This repository contains a list of papers on the **Protein Representation Learni
 ### 3. Decoding Strategy
 
 - **Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
-- 
-- [Paper Title](Link)
+- **Predicting a Protein’s Stability under a Million Mutations**[[paper]](https://arxiv.org/pdf/2310.12979)
+- **CELL-E 2: Translating Proteins to Pictures and Back**[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.05.561066v1)
+- **ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf)
+- **PoET: A generative model of protein families as sequences-of-sequences**[[paper]](https://arxiv.org/abs/2306.06156)
+- **Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://openreview.net/pdf?id=27vPcG4vKV)
+- **ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
+- **Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
+- **PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)
 
-## [Year]
+
