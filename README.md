@@ -9,9 +9,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 ### 1. Modeling Interaction
 
-- [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
-- [NIPS 2023]**Predicting mutational effects on protein-protein binding via a side-chain diffusion probabilistic model**[[paper]](https://arxiv.org/abs/2310.19849)
-- [NIPS 2023]**AVIDa-hIL6: A Large-Scale VHH Dataset Produced from an Immunized Alpaca for Predicting Antigen-Antibody Interactions**[[paper]](https://arxiv.org/abs/2306.03329)
+
+
+
 
 
 
@@ -20,13 +20,21 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### mutation effect for interaction
   - [NIPS 2023]**Predicting a Protein’s Stability under a Million Mutations**[[paper]](https://arxiv.org/pdf/2310.12979)
+  - [NIPS 2023]**Predicting mutational effects on protein-protein binding via a side-chain diffusion probabilistic model**[[paper]](https://arxiv.org/abs/2310.19849)
 
-- #### drug discovery
+ 
+- #### interaction between protein and ligands
+  - [NIPS 2023]**FABind: Fast and Accurate Protein-Ligand Binding**[[paper]](https://arxiv.org/abs/2310.06763)
+  - [NIPS 2023]**Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation**[[paper]](https://arxiv.org/abs/2301.10814)
   - [NIPS 2023]**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://arxiv.org/abs/2310.06367)
  
-- #### interactions between protein and ligands
-  - [NIPS 2023]**FABind: Fast and Accurate Protein-Ligand Binding**[[paper]](https://arxiv.org/abs/2310.06763)
-  - - [NIPS 2023]**Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation**[[paper]](https://arxiv.org/abs/2301.10814)
+- #### interaction between sequence and structure
+  - [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
+
+ 
+- #### interaction between protein and protein
+  - [NIPS 2023]**AVIDa-hIL6: A Large-Scale VHH Dataset Produced from an Immunized Alpaca for Predicting Antigen-Antibody Interactions**[[paper]](https://arxiv.org/abs/2306.03329)
+  
 
   
 
