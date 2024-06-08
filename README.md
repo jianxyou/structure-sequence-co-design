@@ -66,7 +66,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
 - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
 - [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
-- [ICML 2023]**Exploring Chemical Space with Score-based Out-of-distribution Generation**[[paper]](https://openreview.net/forum?id=WP07wAWxty)
+
 
 
 
@@ -79,6 +79,10 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### using LLM for prtein sequence encoding decoding
   - [ICML 2023]**Reprogramming Pretrained Language Models for Antibody Sequence Infilling**[[paper]](https://openreview.net/forum?id=K2gn1WiLAu)
+ 
+
+- #### diffusion model
+   - [ICML 2023]**Exploring Chemical Space with Score-based Out-of-distribution Generation**[[paper]](https://openreview.net/forum?id=WP07wAWxty)
  
   
 
