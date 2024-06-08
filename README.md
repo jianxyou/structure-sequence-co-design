@@ -64,7 +64,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
 - [NIPS 2023]**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)
 - [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
-- [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
+
 
 
 
@@ -86,6 +86,9 @@ This repository contains a list of papers on the **Protein Representation Learni
  
 - #### for out-of-distribution attribute
   - [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
+ 
+- #### for diversity, novely, and fitness of the protein sequence
+  - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
  
   
 
