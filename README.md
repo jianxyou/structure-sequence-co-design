@@ -2,14 +2,6 @@
 
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
-## Year 2024
-1. [Arxiv 2024] **HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multi-task Learning**[[paper]](https://arxiv.org/pdf/2404.01693.pdf)
-1. [Arxiv 2024] **Clustering for Protein Representation Learning**[[paper]](https://arxiv.org/pdf/2404.00254.pdf)
-1. [ICLR 2024] **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**[[paper]](https://openreview.net/forum?id=jJCeMiwHdH)
-1. [ICLR 2024] **Self-Guided Masked Autoencoders for Domain-Agnostic Self-Supervised Learning**[[paper]](https://openreview.net/forum?id=HiYMiZYwkw)
-1. [ICLR 2024] **Learning Scalar Fields for Molecular Docking with Fast Fourier Transforms**[[paper]](https://openreview.net/forum?id=BIveOmD1Nh)
-1. [ICLR 2024] **BEND: Benchmarking 
 
 ## Year 2023
 1. [NIPS 2023] **DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein**[[paper]](https://paperswithcode.com/paper/dsr-dynamical-surface-representation-as)[[code]](https://github.com/Sundw-818/DSR)
