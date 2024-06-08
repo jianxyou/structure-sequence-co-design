@@ -17,6 +17,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**FABind: Fast and Accurate Protein-Ligand Binding**[[paper]](https://arxiv.org/abs/2310.06763)
 - [NIPS 2023]**Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation**[[paper]](https://arxiv.org/abs/2301.10814)
 - [NIPS 2023]**Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**[[paper]](https://arxiv.org/abs/2306.13769)
+- [ICML 2023]**Learning Subpocket Prototypes for Generalizable Structure-based Drug Design**[[paper]](https://openreview.net/forum?id=gfdK6nK8AI)
+
   
 
 ### 2. Hierarchical structure modeling
@@ -29,6 +31,12 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
 - [NIPS 2023]**Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
 - [NIPS 2023]**Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
+- [ICML 2023]**Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)
+- [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
+- [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
+- [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
+- [ICML 2023
+
   
 
 ### 3. Decoding Strategy
@@ -42,5 +50,14 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
 - [NIPS 2023]**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
 - [NIPS 2023]**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)
+- [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
+- [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
+- [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
+- [ICML 2023]**Exploring Chemical Space with Score-based Out-of-distribution Generation**[[paper]](https://openreview.net/forum?id=WP07wAWxty)
+- [ICML 2023]**Reprogramming Pretrained Language Models for Antibody Sequence Infilling**[[paper]](https://openreview.net/forum?id=K2gn1WiLAu)
+- [ICML 2023]**Bidirectional Learning for Offline Model-based Biological Sequence Design**[[paper]](https://openreview.net/forum?id=CUORPu6abU)
+
+
+
 
 
