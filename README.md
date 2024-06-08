@@ -21,12 +21,20 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 ### 2. Modeling Hierarchy Structure of Protein
 
-- [Paper Title](Link)
-- [Paper Title](Link)
+- **SyNDock: N Rigid Protein Docking via Learnable Group Synchronization**[[paper]](https://arxiv.org/abs/2305.15156)
+- **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]]*(https://arxiv.org/abs/2306.01794)
+- **OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
+- **Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
+- **Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
+- **Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
+- **Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
+- **Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
+  
 
 ### 3. Decoding Strategy
 
-- [Paper Title](Link)
+- **Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
+- 
 - [Paper Title](Link)
 
 ## [Year]
