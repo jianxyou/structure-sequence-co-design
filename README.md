@@ -41,7 +41,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
 - [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
 - [NIPS 2023]**Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
-- [NIPS 2023]**Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
+
 
 
 
@@ -76,6 +76,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### using LLM for prtein sequence encoding decoding
   - [ICML 2023]**Reprogramming Pretrained Language Models for Antibody Sequence Infilling**[[paper]](https://openreview.net/forum?id=K2gn1WiLAu)
+  - [NIPS 2023]**Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
  
 
 - #### diffusion model
