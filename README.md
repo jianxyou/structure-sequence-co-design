@@ -39,7 +39,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
 - [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
-- [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
+
 
 
 
@@ -58,6 +58,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### full-atom modeling
   - [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
+  - [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
 
 - #### co-design of amino acid sequences and three-dimensional structures
   - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
