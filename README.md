@@ -45,7 +45,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [ICML 2023]**Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)
 - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
 - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
-- [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
+
 
 
 - #### side chain comptability
@@ -56,6 +56,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### using MSA
   - [NIPS 2023]**OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
+
+- #### full-atom modeling
+  - [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
 
 ### 3. Decoding Strategy
 
