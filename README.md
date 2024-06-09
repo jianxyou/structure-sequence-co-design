@@ -57,24 +57,16 @@ This repository contains a list of papers on the **Protein Representation Learni
 - #### Protein backbone generation
   - [ICML 2023]**Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)
 
+
+
 ### 3. Decoding Strategy
 
-- #### for protein sequence
-  - [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
 
-- #### for bidirection mapping
-  - [ICML 2023]**Bidirectional Learning for Offline Model-based Biological Sequence Design**[[paper]](https://openreview.net/forum?id=CUORPu6abU)
-
-
-- #### using LLM for prtein sequence encoding decoding
+- #### LLM for prtein sequence encoding decoding
   - [ICML 2023]**Reprogramming Pretrained Language Models for Antibody Sequence Infilling**[[paper]](https://openreview.net/forum?id=K2gn1WiLAu)
   - [NIPS 2023]**Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
  
-
-- #### diffusion model
-   - [ICML 2023]**Exploring Chemical Space with Score-based Out-of-distribution Generation**[[paper]](https://openreview.net/forum?id=WP07wAWxty)
- 
-- #### improve the robusity of the sequence design
+- #### Improve the robusity of the sequence design
   - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
   - [ICML 2023]**Extrapolative Controlled Sequence Generation via Iterative Refinement**[[paper]](https://openreview.net/forum?id=EuUeVUS6UV)
   - [NIPS 2023]**ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers**[[paper]](https://openreview.net/forum?id=AwzbQVuDBk)
@@ -83,25 +75,16 @@ This repository contains a list of papers on the **Protein Representation Learni
   - [NIPS 2023]**ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf)
   - [NIPS 2023]**CELL-E 2: Translating Proteins to Pictures and Back**[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.05.561066v1)
   - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
-
-
-- #### inverse protein folding
   - [NIPS 2023]**Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
-
-- #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
-  - [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
+  - [ICML 2023]**Bidirectional Learning for Offline Model-based Biological Sequence Design**[[paper]](https://openreview.net/forum?id=CUORPu6abU)
  
 
-- #### a benchmark helps us to understand
+- #### Benchmarks of experiments
   - [NIPS 2023]**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)
-
-
-- #### bench mark for geomotry representation study
-   - [NIPS 2023]**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
+  - [NIPS 2023]**Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)
+   
  
-- #### 
-  
 
-
+   
 
 
