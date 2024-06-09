@@ -37,10 +37,6 @@ This repository contains a list of papers on the **Protein Representation Learni
 ### 2. Hierarchical structure modeling
 
 
-- [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
-
-
-
 
 
 
@@ -63,6 +59,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### co-design of amino acid sequences and three-dimensional structures
   - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
+  - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
  
 - #### protein backbone
   - [ICML 2023]**Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)
