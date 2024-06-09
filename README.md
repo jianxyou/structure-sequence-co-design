@@ -42,9 +42,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - #### Protein Docking and Interaction
   - [NIPS 2023]**SyNDock: N Rigid Protein Docking via Learnable Group Synchronization**[[paper]](https://arxiv.org/abs/2305.15156)
   - [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
-
-- #### Full-Atom Modeling 
-
+  
 - #### full-atom modeling and Side-Chain Compatibility
   - [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
   - [NIPS 2023]**DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]](https://arxiv.org/abs/2306.01794)
@@ -52,7 +50,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - #### Protein Structure Prediction using MSA (Multiple Sequence Alignment)
   - [NIPS 2023]**OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
 
-- #### co-design of amino acid sequences and three-dimensional structures
+- #### Co-design of amino acid sequences and three-dimensional structures
   - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
   - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
  
