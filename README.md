@@ -40,7 +40,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
 - [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
 - [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
-- [NIPS 2023]**Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
+
 
 
 
@@ -93,8 +93,8 @@ This repository contains a list of papers on the **Protein Representation Learni
   - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
 
 
-- inverse protein folding
-  - [NIPS 2023]**Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**[[paper]](https://arxiv.org/abs/2306.13769)
+- #### inverse protein folding
+  - [NIPS 2023]**Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
 
 - #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
   - [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
