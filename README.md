@@ -44,7 +44,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
 - [ICML 2023]**Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)
 - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
-- [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
+
 
 
 
@@ -59,6 +59,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 - #### full-atom modeling
   - [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
+
+- #### co-design of amino acid sequences and three-dimensional structures
+  - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
 
 ### 3. Decoding Strategy
 
