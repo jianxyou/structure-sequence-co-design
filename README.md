@@ -1,6 +1,6 @@
-# awesome-protein-representation-learning
 
-This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
+
+This repository contains a list of papers on the **Protein design**, we categorize them based on their published years.
 
 
 # Papers on Protein Design
