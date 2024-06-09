@@ -36,8 +36,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 ### 2. Hierarchical structure modeling
 
-- [NIPS 2023]**SyNDock: N Rigid Protein Docking via Learnable Group Synchronization**[[paper]](https://arxiv.org/abs/2305.15156)
-- [NIPS 2023]**DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]](https://arxiv.org/abs/2306.01794)
+
+
 - [NIPS 2023]**OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
 - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
 - [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
@@ -49,6 +49,12 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [ICML 2023]**AbODE: Ab initio antibody design using conjoined ODEs**[[paper]](https://openreview.net/forum?id=EB5unD2ojL)
 - [ICML 2023]**End-to-End Full-Atom Antibody Design**[[paper]](https://openreview.net/forum?id=zAXusLf6R8)
 
+
+- #### side chain comptability
+  - [NIPS 2023]**DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]](https://arxiv.org/abs/2306.01794)
+ 
+- #### protein docking
+  - [NIPS 2023]**SyNDock: N Rigid Protein Docking via Learnable Group Synchronization**[[paper]](https://arxiv.org/abs/2305.15156)
   
 
 ### 3. Decoding Strategy
