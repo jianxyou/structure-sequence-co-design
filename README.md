@@ -20,7 +20,7 @@ This repository contains a list of papers on the **Protein Representation Learni
   - [NIPS 2023]**Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation**[[paper]](https://arxiv.org/abs/2301.10814)
   - [NIPS 2023]**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://arxiv.org/abs/2310.06367)
   - [ICML 2023]**Learning Subpocket Prototypes for Generalizable Structure-based Drug Design**[[paper]](https://openreview.net/forum?id=gfdK6nK8AI)
-  - [NIPS 2023]**Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**[[paper]](https://arxiv.org/abs/2306.13769)
+
  
 - #### interaction between sequence and structure
   - [NIPS 2023]**Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
@@ -93,6 +93,8 @@ This repository contains a list of papers on the **Protein Representation Learni
   - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
 
 
+- inverse protein folding
+  - [NIPS 2023]**Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**[[paper]](https://arxiv.org/abs/2306.13769)
 
 - #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
   - [ICML 2023]**Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)
