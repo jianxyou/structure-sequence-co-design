@@ -37,8 +37,6 @@ This repository contains a list of papers on the **Protein Representation Learni
 ### 2. Hierarchical structure modeling
 
 
-
-- [NIPS 2023]**OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
 - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
 - [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
 - [NIPS 2023]**Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)
@@ -55,7 +53,9 @@ This repository contains a list of papers on the **Protein Representation Learni
  
 - #### protein docking
   - [NIPS 2023]**SyNDock: N Rigid Protein Docking via Learnable Group Synchronization**[[paper]](https://arxiv.org/abs/2305.15156)
-  
+
+- #### using MSA
+  - [NIPS 2023]**OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
 
 ### 3. Decoding Strategy
 
