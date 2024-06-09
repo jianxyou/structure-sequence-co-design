@@ -43,7 +43,6 @@ This repository contains a list of papers on the **Protein Representation Learni
 - [NIPS 2023]**Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)
 - [NIPS 2023]**Exploring evolution-aware & -free protein language models as protein function predictors**[[paper]](https://arxiv.org/abs/2206.06583)
 - [ICML 2023]**Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)
-- [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
 
 
 
@@ -87,6 +86,8 @@ This repository contains a list of papers on the **Protein Representation Learni
   - [NIPS 2023]**PoET: A generative model of protein families as sequences-of-sequences**[[paper]](https://arxiv.org/abs/2306.06156)
   - [NIPS 2023]**ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf)
   - [NIPS 2023]**CELL-E 2: Translating Proteins to Pictures and Back**[[paper]](https://www.biorxiv.org/content/10.1101/2023.10.05.561066v1)
+  - [ICML 2023]**Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://arxiv.org/abs/2305.00386)
+
 
 
 - #### converting coarse-grained (CG) protein representations back into detailed all-atom representations
