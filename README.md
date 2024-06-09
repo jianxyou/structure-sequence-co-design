@@ -38,7 +38,6 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 
 - [NIPS 2023]**Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://arxiv.org/abs/2301.12068)
-- [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
 
 
 
@@ -46,6 +45,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 
 
+- #### functional site identification and modification aspect of protein modeling
+  - [NIPS 2023]**Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering**[[paper]](https://arxiv.org/abs/2210.08171)
 
 - #### side chain comptability
   - [NIPS 2023]**DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]](https://arxiv.org/abs/2306.01794)
